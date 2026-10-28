@@ -1,3 +1,5 @@
+import React from 'react';
+
 export const Posts = ({ postList }) => {
     return (
         <div id='posts'>
